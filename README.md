@@ -2,6 +2,7 @@
 Here are some stats about me
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Foakx&theme=darcula&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Foakx&langs_count=8)](https://github.com/Foakx/github-readme-stats)
 
 
 <!--
