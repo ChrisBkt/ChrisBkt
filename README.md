@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi I'm Chris
+Here are some stats about me
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Foakx&theme=darcula&show_icons=true)
+
 
 <!--
 **Foakx/Foakx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
